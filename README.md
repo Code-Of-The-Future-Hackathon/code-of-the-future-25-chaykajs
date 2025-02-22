@@ -1,9 +1,13 @@
 <h1 align="center">Solar Weather Monitoring System</h1>
-<br>
 <p align="center">
-  <img src="https://www.discoveryplus.com/ca/dp/imports/src/layout/ca/resources/img/dplus-spectrum-bar-static-1-498373d84c0712802e6c8465bec1f179.png" alt="rainbow" width="100%"/>
+  <div style="height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);"></div>
+</p>
+<p align="center">
   <img width="45%" src="logo.png"/>
 <br>
+<p align="center">
+  <div style="height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);"></div>
+</p>
 
   ## 📋 Table of Contents
   - [Our Idea](#idea)
@@ -11,14 +15,24 @@
   - [Team](#collaborators)
   - [Technologies](#technologies)
 
+<p align="center">
+  <div style="height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);"></div>
+</p>
+
 ## 💡 Our Idea <a name="idea"></a>
 Our objective is to develop a monitoring system for solar weather events such as solar flares, solar energetic particles (SEPs), geomagnetic storms, and ionospheric disturbances. The system aims to provide real-time alerts and impact simulations for different industries like space agencies, aviation, and power grids to better prepare for these events.
-
+<p align="center">
+  <div style="height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);"></div>
+</p>
 
 #### 
 
+
 ## 📄 Presentation <a name="docs"></a>
 <img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png" alt="MS PowerPoint logo" width=20px >[Presentation]()
+<p align="center">
+  <div style="height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);"></div>
+</p>
 
 ## 🌱 Team <a name="collaborators"></a>
 > 1. **Project Manager** - **VBKanev22**
@@ -28,7 +42,9 @@ Our objective is to develop a monitoring system for solar weather events such as
 > 3. **Back-end Developer** - **trephy**
    - ***GitHub profile***: [***trephy***](https://github.com/Trephyyy)
 
-<br>
+<br><p align="center">
+  <div style="height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);"></div>
+</p>
 
 ## ⚒️ Tools <a name="technologies"></a>
 <p align="left"> 
@@ -44,7 +60,9 @@ Our objective is to develop a monitoring system for solar weather events such as
 <img src="https://raw.githubusercontent.com/sbivanov22/baklava/main/assets/icons/gitHubIcon.png" alt="GitHub logo" width=48px/>
 <img src="https://raw.githubusercontent.com/sbivanov22/baklava/main/assets/icons/gitHubIcon.png" alt="GitHub logo" width=48px/>
 </p> 
-<br>
+<br><p align="center">
+  <div style="height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);"></div>
+</p>
 
 ## 💻 Languages
 <p align="left"> 
