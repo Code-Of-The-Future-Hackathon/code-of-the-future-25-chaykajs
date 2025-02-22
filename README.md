@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="10px"/>
+</p>
+<br>
 <h1 align="center">Solar Weather Monitoring System</h1>
 <p align="center">
    <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="10px"/>
@@ -6,7 +10,7 @@
   <img width="45%" src="logo.png"/>
 <br>
 <p align="center">
-  <div style="height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);"></div>
+   <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="10px"/>
 </p>
 
   ## 📋 Table of Contents
