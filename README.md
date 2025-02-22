@@ -1,6 +1,6 @@
 <h1 align="center">Solar Weather Monitoring System</h1>
 <p align="center">
-  <div style="height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);"></div>
+   <img src="rainbowline (2).png" alt="GitHub logo" width=48px/>
 </p>
 <p align="center">
   <img width="45%" src="logo.png"/>
