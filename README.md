@@ -1,6 +1,6 @@
 <h1 align="center">Solar Weather Monitoring System</h1>
 <p align="center">
-   <img src="rainbowline (2).png" alt="GitHub logo" width=100%/>
+   <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="10px"/>
 </p>
 <p align="center">
   <img width="45%" src="logo.png"/>
