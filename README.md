@@ -1,6 +1,7 @@
 <h1 align="center">Solar Weather Monitoring System</h1>
 <br>
 <p align="center">
+  <img src="https://www.discoveryplus.com/ca/dp/imports/src/layout/ca/resources/img/dplus-spectrum-bar-static-1-498373d84c0712802e6c8465bec1f179.png" alt="rainbow" width="100%"/>
   <img width="45%" src="logo.png"/>
 <br>
 
