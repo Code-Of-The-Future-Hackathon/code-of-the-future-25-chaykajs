@@ -59,46 +59,12 @@ NOAA’s Solar Radiation Storm Scale (S1-S5).
 Data Sources:
 ACE satellite’s EPAM instrument.
 NOAA’s Space Weather Prediction Center (SWPC).
-## 3. Geomagnetic Storms:
-What: Disturbances in Earth’s magnetosphere caused by CMEs, solar wind, or coronal hole streams.
-Why Alert:
-Can induce currents in power grids (e.g., 1989 Quebec outage).
-Disrupt satellite operations and radio communications.
-Create auroras (a positive side-effect!).
-Key Metrics:
-Kp Index (0–9 scale, NOAA).
-Dst Index (measures storm severity).
-Data Sources:
-DSCOVR satellite’s solar wind data.
-Ground-based magnetometers (e.g., INTERMAGNET).
-## 4. Coronal Hole High-Speed Streams (HSS):
-What: Fast solar wind streams from open magnetic field regions on the Sun.
-Why Alert:
-Cause recurrent geomagnetic storms (weaker but longer-lasting).
-Disrupt satellite drag and orbital tracking.
-Key Metrics:
-Solar wind speed (>500 km/s).
-Bz component of the interplanetary magnetic field (IMF).
-Data Sources:
-NASA’s Solar Wind Prediction Model.
-ACE or DSCOVR real-time solar wind data.
-## 5. Ionospheric Disturbances:
-What: Disruptions in Earth’s ionosphere caused by solar flares or particle events.
-Why Alert:
-Can degrade GPS accuracy and HF radio signals.
-Impact aviation navigation and emergency communications.
-Key Metrics:
-Total Electron Content (TEC) maps.
-Sudden Ionospheric Disturbance (SID) monitors.
-Data Sources:
-NASA’s Madrigal TEC database.
-Global GNSS networks (e.g., IGS).
 
 ###
 
 The **Helcats** (Heliospheric Catalog of Events) dataset provides valuable information about solar events such as **Coronal Mass Ejections (CMEs)**. This dataset can be used to analyze past solar activity, as well as predict the occurrence of future CMEs and their potential severity.
 
-## 6. What is the Helcats Dataset?
+## 3. What is the Helcats Dataset?
 
 The Helcats dataset includes:
 - **CME Data**: Information on the timing, speed, and direction of CMEs.
@@ -107,26 +73,30 @@ The Helcats dataset includes:
 
 The dataset is collected from solar observation satellites such as the **SOHO** and **STEREO** missions, and is maintained by the **European Space Agency (ESA)**.
 
-## 7. Predicting Future CMEs and Their Severity
+## 4. Predicting Future CMEs and Their Severity
 
 Using the Helcats dataset, machine learning algorithms and statistical models can be applied to predict future CMEs. These predictions can be made based on:
 1. **Historical Patterns**: By analyzing the properties of past CMEs, we can predict the likelihood of future events.
 2. **Solar Activity Monitoring**: Continuous monitoring of solar activity can provide early warnings of impending CMEs.
 3. **Severity Assessment**: By analyzing the size, speed, and magnetic properties of CMEs, we can estimate their potential severity and the impact on Earth (e.g., geomagnetic storms, radiation exposure, etc.).
 
-## 8. Tools for Prediction
+## 5. Tools for Prediction
 
-- **Machine Learning Models**: Predictive models like Random Forests, SVMs, or neural networks can be trained on historical CME data to predict future events.
-- **Helcats API**: Access real-time CME data to continuously monitor the Sun’s activity and trigger early warnings.
+- **Machine Learning Models**: The Predictive model Random Forests is trained on historical CME data to predict future events.
+- **Helcats Dataset**: Access real-time CME data to continuously monitor the Sun’s activity and trigger early warnings.
 
-## 9. Example Use Cases:
+## 6. Example Use Cases:
 1. **Aviation**: Predicting CMEs and their severity can help airlines prepare for potential disruptions in satellite communication and GPS systems.
 2. **Satellite Protection**: Space agencies can use predictions to protect satellites by adjusting orbits and shutting down sensitive equipment.
 3. **Power Grid Management**: Utility companies can prepare for geomagnetic storms that may affect power grids.
 
-## 10. Data Sources:
+## 7. Data Sources:
 - **Helcats Dataset**: The dataset can be accessed via the [Helcats Database](https://www.helcats-fp7.eu/).
 - **NASA’s Space Weather Prediction Center**: For real-time CME data and space weather predictions.
+
+## 8. Self-Host Project
+
+  
 <p align="center">
    <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="7px"/>
 </p>
