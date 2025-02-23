@@ -122,6 +122,8 @@ Using the Helcats dataset, machine learning algorithms and statistical models ca
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUyPLMCrdBvL7byu5KkMnOssbQigrkiRxZw&s" alt="threejs" width=48px />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="tailwind" width=48px/>
 <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VS Code" width=48px/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="php-laravel" width=48px />
+
 </p> 
 <br><p align="center">
    <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="7px"/>
@@ -130,7 +132,6 @@ Using the Helcats dataset, machine learning algorithms and statistical models ca
 ## 💻 Languages
 <p align="left"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" width="48px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="php-laravel" width=48px />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php-language"width=48px >
 </p><p align="center">
    <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="7px"/>
