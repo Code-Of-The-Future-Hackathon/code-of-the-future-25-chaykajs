@@ -103,7 +103,7 @@ export default function Dashboard() {
       >
     
         <div className="max-w-screen-xl w-full relative">
-          <img src="/logo.png" alt="Infradash Logo" className="" />
+
           <h1 className="text-5xl font-extrabold mb-8 tracking-wide text-center text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-400">
             Solar Event Dashboard
           </h1>
