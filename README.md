@@ -1,6 +1,6 @@
 <h1 align="center">Solar Weather Monitoring System</h1>
 <p align="center">
-   <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="10px"/>
+   <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="7px"/>
 </p>
 <p align="center">
   <img width="45%" src="logo.png"/>
@@ -29,7 +29,7 @@ Our objective is to develop a monitoring system for solar weather events such as
 
 
 ## 📄 Presentation <a name="docs"></a>
-<img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png" alt="MS PowerPoint logo" width=20px >[Presentation]()
+<img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png" alt="MS PowerPoint logo" width=20px >[Presentation](https://codingburgas-my.sharepoint.com/:p:/r/personal/vbkanev22_codingburgas_bg/_layouts/15/Doc.aspx?sourcedoc=%7BB5BC1692-AC33-4FFD-9152-80E7E8F22CEB%7D&file=InfraDash.pptx&action=edit&mobileredirect=true&wdOrigin=OFFICE-OFFICE-METAOS.FILEBROWSER.FILES-FOLDER)
 <p align="center">
    <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="7px"/>
 </p>
@@ -57,8 +57,6 @@ Our objective is to develop a monitoring system for solar weather events such as
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUyPLMCrdBvL7byu5KkMnOssbQigrkiRxZw&s" alt="threejs" width=48px />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="tailwind" width=48px/>
 <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VS Code" width=48px/>
-<img src="https://raw.githubusercontent.com/sbivanov22/baklava/main/assets/icons/gitHubIcon.png" alt="GitHub logo" width=48px/>
-<img src="https://raw.githubusercontent.com/sbivanov22/baklava/main/assets/icons/gitHubIcon.png" alt="GitHub logo" width=48px/>
 </p> 
 <br><p align="center">
    <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="7px"/>
