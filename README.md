@@ -15,6 +15,7 @@
   - [Documentation](#docs)
   - [Team](#collaborators)
   - [Technologies](#technologies)
+  - [Appreciation](#appreciation)
 
 <p align="center">
    <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="7px"/>
@@ -92,6 +93,9 @@ Sudden Ionospheric Disturbance (SID) monitors.
 Data Sources:
 NASA’s Madrigal TEC database.
 Global GNSS networks (e.g., IGS).
+<p align="center">
+   <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="7px"/>
+</p>
 
 ## 🌱 Team <a name="collaborators"></a>
 > 1. **Project Manager** - **VBKanev22**
@@ -127,3 +131,8 @@ Global GNSS networks (e.g., IGS).
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="php-laravel" width=48px />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php-language"width=48px >
 </p>
+
+## 👏 Appreciation <a name="appreciation"></a>
+```
+Thank you for scrolling this far! Please consider giving the repo a star ⭐.
+```
