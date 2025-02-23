@@ -93,9 +93,6 @@ Using the Helcats dataset, machine learning algorithms and statistical models ca
 ## 7. Data Sources:
 - **Helcats Dataset**: The dataset can be accessed via the [Helcats Database](https://www.helcats-fp7.eu/).
 - **NASA’s Space Weather Prediction Center**: For real-time CME data and space weather predictions.
-
-## 8. Self-Host Project
-
   
 <p align="center">
    <img src="rainbowline (2).png" alt="GitHub logo" width=100% height="7px"/>
