@@ -67,7 +67,7 @@ export default function GrafanaPanel({ title, data, setSelectedRange, selectedRa
   
 
   return (
-    <div className="bg-[#1a1a1a] p-4 shadow-md rounded-lg relative w-[80%] mx-auto">
+    <div className="bg-[#1a1a1a] p-4 shadow-md rounded-lg h-full relative w-[80%] mx-auto">
       <div className="mb-4">
         <h2 className="text-lg font-semibold text-white">{title}</h2>
         
